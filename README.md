@@ -19,3 +19,7 @@ django-admin startproject (Придумать имя проекта)
 py manage.py runserver
 
 если терминал не доступен нажать сочетание ctrl+c
+
+git checkout -b feature/django-initilization 
+Команда "git checkout -b feature/django-initilization" создает новую ветку с именем
+"feature/django-initilization" и переключает текущую рабочую ветку на эту новую ветку.
